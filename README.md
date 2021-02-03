@@ -23,4 +23,5 @@ Project 2 consists of writing a Pytorch program that learns to read business rev
 
 ## Marks:
 Project 1 - 30/30
+
 Project 2 - 27/30
