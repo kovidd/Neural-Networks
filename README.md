@@ -1,6 +1,6 @@
 # Neural-Networks
 
-Project 1 - Characters, Spirals and Hidden Unit Dynamics (hw1)
+## Project 1 - Characters, Spirals and Hidden Unit Dynamics (hw1)
 https://www.cse.unsw.edu.au/~cs9444/20T3/hw1/index.html
 
 Part 1: Japanese Character Recognition
@@ -16,7 +16,7 @@ Part 3 involves investigating hidden unit dynamics, using the supplied code in e
 It also includes creating my own training data in tensors target1 and target2, which will generate two images of a new design of my choosing.
 
 
-Project 2 - Rating and Category Prediction
+## Project 2 - Rating and Category Prediction
 https://www.cse.unsw.edu.au/~cs9444/20T3/hw2/
 
 Project 2 consists of writing a Pytorch program that learns to read business reviews in text format and predict a rating (positive or negative) associated with each review, as well as a business category (0=Restaurants, 1=Shopping, 2=Home Services, 3=Health & Medical, 4=Automotive).
