@@ -21,6 +21,6 @@ https://www.cse.unsw.edu.au/~cs9444/20T3/hw2/
 
 Project 2 consists of writing a Pytorch program that learns to read business reviews in text format and predict a rating (positive or negative) associated with each review, as well as a business category (0=Restaurants, 1=Shopping, 2=Home Services, 3=Health & Medical, 4=Automotive).
 
-Marks:
+## Marks:
 Project 1 - 30/30
 Project 2 - 27/30
